@@ -1,43 +1,13 @@
-Hi, I'm Shivam Shukla 👋
-Backend Developer & AI Engineer | Java · Spring Boot · LLM Integration
-🚀 About Me
-🎓 B.Tech in Computer Science, 2026
-💼 Backend Developer & AI Engineer, specializing in Java, Spring Boot, and LLM integration (Groq API, LangChain4j)
-🛠️ Deployed production-grade REST APIs and AI agents on AWS EC2 serving real users
-🌐 Experience integrating Twilio API, MySQL, and Hibernate ORM in end-to-end backend systems
-📌 Immediate Joiner — actively seeking a Backend Developer / AI Engineer role
-🔭 Currently Working On
-Building AI-powered conversational agents using Groq API (Llama 3) and Twilio
-Exploring scalable architectures for multilingual (Hindi/English) NLP pipelines
-🌱 Currently Learning
-Advanced LangChain4j workflows
-Scalable AI agent architectures
-💻 Tech Stack
-Languages
-Java Python SQL
-Frameworks & Libraries
-Spring Boot Hibernate ORM React
-AI / LLM
-Groq API Llama 3 LangChain4j
-API Development
-REST API Design MVC Architecture Twilio API Webhook Integration
-Databases
-MySQL Schema Design Query Optimization
-Cloud & DevOps
-AWS EC2 Linux (Ubuntu) Git GitHub Postman
-🧩 Featured Projects
-Yojna Setu — WhatsApp AI Agent
-AI-powered WhatsApp chatbot (Spring Boot + Groq API/Llama 3) matching users with 50+ government schemes via NLP. Bilingual (Hindi/English) intent recognition with sub-2s latency via Twilio Webhook API.
-RealGuard — AI Real Estate Assistant
-Conversational assistant for real estate brokers automating RERA verification, fraud detection, and lead qualification via Groq LLM, Spring Boot, and Twilio.
-V-Mitra — Voice-First AI Assistant
-Voice-first assistant for small vendors to manage sales & inventory via natural language commands (Hindi/English), using Groq API and a React + Spring Boot stack.
-📜 Certifications
-AWS Cloud Practitioner Essentials — AWS Training & Certification
-Advanced Software Engineering Job Simulation — Walmart Global Tech (Forage)
-Java with Spring Boot Internship — Soft Pro
-📫 Connect With Me
-📧 theshivamshukla.4uu@gmail.com
+👋 Hi, I'm Shivam Shukla — Backend Developer & AI Engineer specializing in Java, Spring Boot, and LLM integration using Groq API & LangChain4j. I build production-grade REST APIs and AI agents deployed on AWS EC2, serving real users. Currently exploring conversational AI for real-world use cases like government scheme discovery and WhatsApp-based assistants.
+
+🔭 Currently building AI agents with Twilio, MySQL & Hibernate
+
+🌱 Learning: Advanced LangChain4j, scalable AI architectures
+
+📫 Reach me: theshivamshukla.4uu@gmail.com
+
+💼 Open to: Backend Developer / AI Engineer roles (Immediate Joiner)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shiva.xxvi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-shukla-186276374/?skipRedirect=true) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@S888Shivam) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shivam Shukla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theshivamshukla.4uu@gmail.com) 
