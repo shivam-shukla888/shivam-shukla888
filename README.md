@@ -1,33 +1,114 @@
-👋 Hi, I'm Shivam Shukla — Backend Developer & AI Engineer specializing in Java, Spring Boot, and LLM integration using Groq API & LangChain4j. I build production-grade REST APIs and AI agents deployed on AWS EC2, serving real users. Currently exploring conversational AI for real-world use cases like government scheme discovery and WhatsApp-based assistants.
+# Hi, I'm Shivam Shukla 👋
 
-🔭 Currently building AI agents with Twilio, MySQL & Hibernate
+### AI Engineer • AI Agents • AI Security • Backend Engineering
 
-🌱 Learning: Advanced LangChain4j, scalable AI architectures
+I build practical software systems around **AI agents, LLM workflows, automation, and secure backend engineering**.
 
-📫 Reach me: theshivamshukla.4uu@gmail.com
-
-💼 Open to: Backend Developer / AI Engineer roles (Immediate Joiner)
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shiva.xxvi) 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shivam-shukla888&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shivam-shukla888&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shivam-shukla888&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shivam-shukla888&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shivam-shukla888&limit=5&theme=dark&combine_all_yearly_contributions=true)
+My current focus is on building systems where AI handles natural-language understanding and application code handles the important parts — business rules, validation, data boundaries, and security.
 
 ---
-[![](https://komarev.com/ghpvc/?username=shivam-shukla888&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I Build
+
+- 🤖 **AI Agents & LLM Workflows**
+- 🔐 **AI Security & Secure AI Workflows**
+- ⚙️ **AI Automation & API Integrations**
+- 🧩 **Backend Systems & REST APIs**
+- 📦 **Developer Tools, Templates & Digital Products**
+
+---
+
+## Selected Work
+
+### Yojna Setu
+**AI Agent + Deterministic Eligibility System**
+
+A conversational government-scheme discovery system using WhatsApp and Groq for natural-language intake, with application-side deterministic eligibility evaluation.
+
+**Focus:** AI agents · deterministic systems · WhatsApp automation · backend engineering
+
+[View Repository →](https://github.com/shivam-shukla888/Yojna-Setu)
+
+---
+
+### RealGuard
+**Conversational AI Automation**
+
+A WhatsApp-based real-estate workflow that uses an LLM to extract user requirements while application code handles calculations, property workflows and data persistence.
+
+**Focus:** LLM integration · automation · conversational workflows · backend systems
+
+[View Repository →](https://github.com/shivam-shukla888/RealGuard)
+
+---
+
+### QuickEats
+**Full-Stack Ordering & AI-Assisted Platform**
+
+A full-stack food ordering application with Spring Boot, React, authentication, real-time order updates and application-level security controls.
+
+**Focus:** backend engineering · application security · AI integration · real-time systems
+
+[View Repository →](https://github.com/shivam-shukla888/QuickEats-Ordering-System)
+
+---
+
+## Technical Focus
+
+**AI & Agents**
+
+Python · LLM Integration · Groq · AI Agents · Tool Calling · RAG
+
+**AI Security**
+
+Prompt Injection Defense · Input/Output Validation · Data Isolation · Secure AI Workflows · Server-Side Validation
+
+**Backend**
+
+Java · Spring Boot · Spring Security · REST APIs · Hibernate ORM
+
+**Data & Infrastructure**
+
+PostgreSQL · Supabase · MySQL · SQL · Docker · AWS
+
+**Integrations**
+
+Twilio · Webhooks · API Integration · Git · GitHub · Postman
+
+---
+
+## Currently Building
+
+I'm exploring the intersection of:
+
+**AI Agents × AI Security × Automation × Digital Products**
+
+I’m particularly interested in turning engineering work into practical, reusable products, templates, and developer resources.
+
+---
+
+## Certifications
+
+- AWS Cloud Practitioner Essentials — AWS Training & Certification
+- Advanced Software Engineering Job Simulation — Walmart Global Tech (Forage)
+- Java with Spring Boot Internship — Soft Pro
+
+---
+
+## Connect
+
+🌐 **Portfolio:**  
+https://shivam-portfolio-fi64.vercel.app/
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/shivam-shukla-186276374/
+
+📧 **Email:**  
+theshivamshukla.4uu@gmail.com
+
+🐙 **GitHub:**  
+https://github.com/shivam-shukla888
+
+---
+
+> Building practical systems, learning continuously, and turning ideas into software.
