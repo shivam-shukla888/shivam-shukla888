@@ -1,114 +1,53 @@
 # Hi, I'm Shivam Shukla 👋
 
-### AI Engineer • AI Agents • AI Security • Backend Engineering
+**Aspiring AI Engineer | Backend Engineering | AI Agents & Security**
 
-I build practical software systems around **AI agents, LLM workflows, automation, and secure backend engineering**.
+I build software projects that combine LLM-powered workflows with dependable application logic. I’m especially interested in systems where AI interprets natural language while code enforces business rules, validation, privacy, and security.
 
-My current focus is on building systems where AI handles natural-language understanding and application code handles the important parts — business rules, validation, data boundaries, and security.
+- 🤖 **AI engineering:** LLM integrations, agent workflows, prompt and output validation
+- ⚙️ **Backend:** Java, Spring Boot, REST APIs, authentication, integrations
+- 🔐 **Security:** secure API design, input validation, AI workflow boundaries
+- 🗄️ **Data & deployment:** SQL, PostgreSQL, Docker, and cloud fundamentals
 
----
+## Featured Projects
 
-## What I Build
+### [Yojna Setu](https://github.com/shivam-shukla888/Yojna-Setu)
+A government-scheme discovery assistant concept using conversational intake and deterministic eligibility rules.
+**Focus:** Java · Spring Boot · Groq API · PostgreSQL · Docker
 
-- 🤖 **AI Agents & LLM Workflows**
-- 🔐 **AI Security & Secure AI Workflows**
-- ⚙️ **AI Automation & API Integrations**
-- 🧩 **Backend Systems & REST APIs**
-- 📦 **Developer Tools, Templates & Digital Products**
+### [AgentShield](https://github.com/shivam-shukla888/agent-shield)
+A project focused on evaluating risks and security boundaries in AI-agent workflows.
+**Focus:** AI security · risk analysis · validation
 
----
+### [QuickEats Ordering System](https://github.com/shivam-shukla888/QuickEats-Ordering-System)
+A full-stack food-ordering application with a Spring Boot backend, React frontend, authentication, and order workflows.
+**Focus:** Java · Spring Boot · React · SQL · API security
 
-## Selected Work
+### [Expense Tracker](https://github.com/shivam-shukla888/expense-tracker)
+A full-stack personal-finance app for tracking expenses, built with a React frontend and Node.js/Express backend.
+**Focus:** React · Node.js · Express · SQLite · testing
 
-### Yojna Setu
-**AI Agent + Deterministic Eligibility System**
+## Technical Skills
 
-A conversational government-scheme discovery system using WhatsApp and Groq for natural-language intake, with application-side deterministic eligibility evaluation.
+- **Languages:** Java, Python, JavaScript, SQL
+- **AI:** LLM APIs, AI-agent workflows, prompt/output validation
+- **Backend:** Spring Boot, Spring Security, Node.js, Express, REST APIs
+- **Frontend:** React, Vite
+- **Data:** PostgreSQL, MySQL, SQLite
+- **Tools:** Git, GitHub, Docker, Postman
 
-**Focus:** AI agents · deterministic systems · WhatsApp automation · backend engineering
+## Certifications & Learning
 
-[View Repository →](https://github.com/shivam-shukla888/Yojna-Setu)
-
----
-
-### RealGuard
-**Conversational AI Automation**
-
-A WhatsApp-based real-estate workflow that uses an LLM to extract user requirements while application code handles calculations, property workflows and data persistence.
-
-**Focus:** LLM integration · automation · conversational workflows · backend systems
-
-[View Repository →](https://github.com/shivam-shukla888/RealGuard)
-
----
-
-### QuickEats
-**Full-Stack Ordering & AI-Assisted Platform**
-
-A full-stack food ordering application with Spring Boot, React, authentication, real-time order updates and application-level security controls.
-
-**Focus:** backend engineering · application security · AI integration · real-time systems
-
-[View Repository →](https://github.com/shivam-shukla888/QuickEats-Ordering-System)
-
----
-
-## Technical Focus
-
-**AI & Agents**
-
-Python · LLM Integration · Groq · AI Agents · Tool Calling · RAG
-
-**AI Security**
-
-Prompt Injection Defense · Input/Output Validation · Data Isolation · Secure AI Workflows · Server-Side Validation
-
-**Backend**
-
-Java · Spring Boot · Spring Security · REST APIs · Hibernate ORM
-
-**Data & Infrastructure**
-
-PostgreSQL · Supabase · MySQL · SQL · Docker · AWS
-
-**Integrations**
-
-Twilio · Webhooks · API Integration · Git · GitHub · Postman
-
----
-
-## Currently Building
-
-I'm exploring the intersection of:
-
-**AI Agents × AI Security × Automation × Digital Products**
-
-I’m particularly interested in turning engineering work into practical, reusable products, templates, and developer resources.
-
----
-
-## Certifications
-
-- AWS Cloud Practitioner Essentials — AWS Training & Certification
+- AWS Cloud Practitioner Essentials — AWS Training
 - Advanced Software Engineering Job Simulation — Walmart Global Tech (Forage)
 - Java with Spring Boot Internship — Soft Pro
 
----
-
 ## Connect
 
-🌐 **Portfolio:**  
-https://www.jiosi.online/
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/shivam-shukla-186276374/
-
-📧 **Email:**  
-theshivamshukla.4uu@gmail.com
-
-🐙 **GitHub:**  
-https://github.com/shivam-shukla888
+- **Portfolio:** https://www.jiosi.online/
+- **LinkedIn:** https://www.linkedin.com/in/shivam-shukla-186276374/
+- **Email:** theshivamshukla.4uu@gmail.com
 
 ---
 
-> Building practical systems, learning continuously, and turning ideas into software.
+*I’m building practical projects, strengthening my engineering fundamentals, and learning to ship reliable software.*
