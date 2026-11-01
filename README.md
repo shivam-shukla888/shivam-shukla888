@@ -1,6 +1,6 @@
 # Hi, I'm Shivam Shukla 👋
 
-**Aspiring AI Engineer | Backend Engineering | AI Agents & Security**
+**Aspiring AI Engineer | Full Stack Engineering | AI Agents & Security**
 
 I build software projects that combine LLM-powered workflows with dependable application logic. I’m especially interested in systems where AI interprets natural language while code enforces business rules, validation, privacy, and security.
 
